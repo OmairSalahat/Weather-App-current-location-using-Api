@@ -1,7 +1,6 @@
 import geocoder
 import requests
-import googlemaps
-import socket
+
 
 link="http://api.openweathermap.org/data/2.5/weather"
 
